@@ -1,0 +1,103 @@
+# ============================================
+# TECHNOVA SENTINEL AI - Git Ignore
+# ============================================
+
+# ----------------------------
+# Environment & Secrets
+# ----------------------------
+.env
+.env.*
+*.env
+!.env.example
+
+# ----------------------------
+# Dependencies
+# ----------------------------
+node_modules/
+**/node_modules/
+
+# ----------------------------
+# Python
+# ----------------------------
+.venv/
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+
+# ----------------------------
+# Logs & Runtime
+# ----------------------------
+*.log
+celerybeat-schedule*
+*.pid
+
+# ----------------------------
+# Database Backups
+# ----------------------------
+backend/backups/
+backend/*.db
+backend/*backup*
+recommendations.db
+
+# ----------------------------
+# Generated Reports / Artifacts
+# ----------------------------
+backend/generated_reports/
+catboost_info/
+*_tree.txt
+*_results.txt
+test_report.json
+temp_*.txt
+
+# ----------------------------
+# Backup Copies
+# ----------------------------
+*.bak
+*.backup
+*.backup.*
+**/*backup*
+*.module16_backup
+*.module16-backup
+*.module*-backup
+*.module*_backup
+
+# ----------------------------
+# Test Artifacts
+# ----------------------------
+ws_test.py
+test_websocket*.py
+
+# ----------------------------
+# IDE / Editor
+# ----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ----------------------------
+# OS Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Temporary Files
+# ----------------------------
+*.tmp
+*.temp
+
+# ----------------------------
+# Keep Backup Automation Scripts
+# ----------------------------
+!backend/scripts/daily-backup.js
+!backend/scripts/run-daily-backup.cmd
+node_modules
+
+# MLflow generated artifacts
+**/mlruns/
+**/mlflow.db
+**/mlflow.db-*
+**/*.pkl

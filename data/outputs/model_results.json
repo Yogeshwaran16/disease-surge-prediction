@@ -1,0 +1,86 @@
+{
+  "dengue": {
+    "baseline_accuracy": 0.6123,
+    "baseline_f1": 0.4227,
+    "enriched_accuracy": 0.6441,
+    "enriched_f1": 0.3636,
+    "improvement_acc_pct": 5.19,
+    "improvement_f1_pct": -13.98,
+    "count_mape": 6.2189,
+    "top_features": {
+      "cos_week": 0.0349,
+      "larval_index_mean": 0.0326,
+      "rainfall_lag2": 0.0315,
+      "max_temp_mean": 0.0315,
+      "week_number": 0.0305,
+      "rainfall_lag1": 0.0289,
+      "rainfall_lag3": 0.028,
+      "max_temp_max": 0.0274,
+      "iv_fluids": 0.025,
+      "rainfall_mm_mean": 0.0248
+    }
+  },
+  "scrub_typhus": {
+    "baseline_accuracy": 0.6102,
+    "baseline_f1": 0.414,
+    "enriched_accuracy": 0.6462,
+    "enriched_f1": 0.3792,
+    "improvement_acc_pct": 5.9,
+    "improvement_f1_pct": -8.41,
+    "count_mape": 3.9153,
+    "top_features": {
+      "cos_week": 0.0478,
+      "max_temp_mean": 0.0378,
+      "max_temp_max": 0.0333,
+      "is_resp_season": 0.0304,
+      "week_number": 0.0283,
+      "larval_index_mean": 0.0273,
+      "rainfall_lag2": 0.0266,
+      "rainfall_lag3": 0.0243,
+      "ors_sold": 0.0239,
+      "month": 0.0233
+    }
+  },
+  "gastroenteritis": {
+    "baseline_accuracy": 0.6377,
+    "baseline_f1": 0.3596,
+    "enriched_accuracy": 0.6992,
+    "enriched_f1": 0.3173,
+    "improvement_acc_pct": 9.63,
+    "improvement_f1_pct": -11.75,
+    "count_mape": 5.9593,
+    "top_features": {
+      "larval_index_mean": 0.0338,
+      "week_number": 0.0334,
+      "max_temp_mean": 0.0311,
+      "sin_week": 0.0273,
+      "dengue_beds": 0.0268,
+      "rainfall_lag1": 0.0267,
+      "rainfall_mm_sum": 0.0261,
+      "rainfall_lag2": 0.0245,
+      "max_temp_max": 0.0244,
+      "ors_packets": 0.0243
+    }
+  },
+  "respiratory": {
+    "baseline_accuracy": 0.6674,
+    "baseline_f1": 0.453,
+    "enriched_accuracy": 0.7097,
+    "enriched_f1": 0.4069,
+    "improvement_acc_pct": 6.35,
+    "improvement_f1_pct": -10.16,
+    "count_mape": 8.6626,
+    "top_features": {
+      "larval_index_mean": 0.0368,
+      "week_number": 0.0345,
+      "sin_week": 0.0309,
+      "rainfall_lag3": 0.0294,
+      "rainfall_mm_max": 0.0286,
+      "rainfall_mm_mean": 0.0277,
+      "ors_sold": 0.0255,
+      "rainfall_lag1": 0.0253,
+      "rainfall_mm_sum": 0.0249,
+      "iv_fluids": 0.0243
+    }
+  }
+}

@@ -1,0 +1,588 @@
+/* =========================================
+   RECOMMENDATIONS PAGE
+========================================= */
+
+.recommendations-container {
+
+  min-height: 100vh;
+
+  padding: 30px;
+
+  background: #0b1120;
+
+  color: white;
+
+  box-sizing: border-box;
+
+}
+
+
+/* =========================================
+   HEADER
+========================================= */
+
+.recommendations-header {
+
+  margin-bottom: 30px;
+
+}
+
+.recommendations-header h1 {
+
+  margin: 0 0 8px 0;
+
+  font-size: 32px;
+
+}
+
+.recommendations-header p {
+
+  margin: 0;
+
+  color: #94a3b8;
+
+}
+
+
+/* =========================================
+   FORM CARD
+========================================= */
+
+.recommendation-form-card {
+
+  background: #111827;
+
+  padding: 25px;
+
+  border-radius: 16px;
+
+  margin-bottom: 25px;
+
+  box-shadow:
+    0 4px 20px
+    rgba(0, 0, 0, 0.3);
+
+}
+
+.recommendation-form-card h2 {
+
+  margin-top: 0;
+
+  margin-bottom: 25px;
+
+}
+
+
+/* =========================================
+   FORM GRID
+========================================= */
+
+.form-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(3, 1fr);
+
+  gap: 20px;
+
+}
+
+
+.form-group {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 8px;
+
+}
+
+
+.form-group label {
+
+  font-size: 14px;
+
+  font-weight: 600;
+
+  color: #cbd5e1;
+
+}
+
+
+.form-group input,
+
+.form-group select {
+
+  width: 100%;
+
+  padding: 12px;
+
+  border-radius: 8px;
+
+  border:
+    1px solid #334155;
+
+  background: #1e293b;
+
+  color: white;
+
+  font-size: 15px;
+
+  box-sizing: border-box;
+
+}
+
+
+.form-group input:focus,
+
+.form-group select:focus {
+
+  outline: none;
+
+  border-color: #2563eb;
+
+}
+
+
+/* =========================================
+   GENERATE BUTTON
+========================================= */
+
+.generate-btn {
+
+  margin-top: 25px;
+
+  padding: 13px 22px;
+
+  border: none;
+
+  border-radius: 8px;
+
+  background: #2563eb;
+
+  color: white;
+
+  font-size: 16px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition:
+    all 0.3s ease;
+
+}
+
+
+.generate-btn:hover {
+
+  background: #1d4ed8;
+
+  transform:
+    translateY(-2px);
+
+}
+
+
+.generate-btn:disabled {
+
+  opacity: 0.6;
+
+  cursor: not-allowed;
+
+  transform: none;
+
+}
+
+
+/* =========================================
+   ERROR
+========================================= */
+
+.recommendation-error {
+
+  padding: 15px 20px;
+
+  margin-bottom: 25px;
+
+  border-radius: 10px;
+
+  background:
+    rgba(220, 38, 38, 0.15);
+
+  border:
+    1px solid #dc2626;
+
+  color: #fca5a5;
+
+}
+
+
+/* =========================================
+   SUMMARY
+========================================= */
+
+.recommendation-summary {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(5, 1fr);
+
+  gap: 15px;
+
+  margin-bottom: 25px;
+
+}
+
+
+.recommendation-summary > div {
+
+  background: #111827;
+
+  padding: 20px;
+
+  border-radius: 14px;
+
+  border:
+    1px solid #1e293b;
+
+}
+
+
+.recommendation-summary span {
+
+  display: block;
+
+  font-size: 13px;
+
+  color: #94a3b8;
+
+  margin-bottom: 8px;
+
+}
+
+
+.recommendation-summary h3 {
+
+  margin: 0;
+
+  font-size: 20px;
+
+}
+
+
+/* =========================================
+   EMERGENCY ALERT
+========================================= */
+
+.emergency-alert {
+
+  padding: 20px;
+
+  margin-bottom: 25px;
+
+  border-radius: 12px;
+
+  background:
+    linear-gradient(
+      135deg,
+      #991b1b,
+      #7f1d1d
+    );
+
+  border:
+    1px solid #ef4444;
+
+  font-weight: bold;
+
+  font-size: 18px;
+
+}
+
+
+/* =========================================
+   RECOMMENDATIONS CARD
+========================================= */
+
+.recommendations-list-card {
+
+  background: #111827;
+
+  padding: 25px;
+
+  border-radius: 16px;
+
+  box-shadow:
+    0 4px 20px
+    rgba(0, 0, 0, 0.3);
+
+}
+
+
+.recommendations-list-card h2 {
+
+  margin-top: 0;
+
+  margin-bottom: 25px;
+
+}
+
+
+/* =========================================
+   RECOMMENDATIONS GRID
+========================================= */
+
+.recommendations-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, 1fr);
+
+  gap: 20px;
+
+}
+
+
+.recommendation-item {
+
+  background: #1e293b;
+
+  padding: 20px;
+
+  border-radius: 14px;
+
+  border:
+    1px solid #334155;
+
+  transition:
+    all 0.3s ease;
+
+}
+
+
+.recommendation-item:hover {
+
+  transform:
+    translateY(-4px);
+
+  border-color: #2563eb;
+
+}
+
+
+.recommendation-item-header {
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  gap: 15px;
+
+  margin-bottom: 15px;
+
+}
+
+
+.recommendation-item h3 {
+
+  margin: 0;
+
+  font-size: 18px;
+
+}
+
+
+.recommendation-item p {
+
+  margin-bottom: 20px;
+
+  color: #cbd5e1;
+
+  line-height: 1.6;
+
+}
+
+
+/* =========================================
+   PRIORITY BADGES
+========================================= */
+
+.priority-badge {
+
+  padding: 6px 12px;
+
+  border-radius: 50px;
+
+  font-size: 12px;
+
+  font-weight: 700;
+
+  white-space: nowrap;
+
+}
+
+
+.priority-critical {
+
+  background: #7f1d1d;
+
+  color: white;
+
+}
+
+
+.priority-high {
+
+  background: #dc2626;
+
+  color: white;
+
+}
+
+
+.priority-medium {
+
+  background: #f59e0b;
+
+  color: white;
+
+}
+
+
+.priority-low {
+
+  background: #10b981;
+
+  color: white;
+
+}
+
+
+/* =========================================
+   TIMELINE
+========================================= */
+
+.timeline {
+
+  padding-top: 15px;
+
+  border-top:
+    1px solid #334155;
+
+  color: #94a3b8;
+
+  font-size: 14px;
+
+}
+
+
+/* =========================================
+   RESPONSIVE
+========================================= */
+
+@media (
+  max-width: 1200px
+) {
+
+  .form-grid {
+
+    grid-template-columns:
+      repeat(2, 1fr);
+
+  }
+
+
+  .recommendation-summary {
+
+    grid-template-columns:
+      repeat(3, 1fr);
+
+  }
+
+}
+
+
+@media (
+  max-width: 800px
+) {
+
+  .recommendations-container {
+
+    padding: 20px;
+
+  }
+
+
+  .form-grid {
+
+    grid-template-columns: 1fr;
+
+  }
+
+
+  .recommendation-summary {
+
+    grid-template-columns:
+      repeat(2, 1fr);
+
+  }
+
+
+  .recommendations-grid {
+
+    grid-template-columns: 1fr;
+
+  }
+
+}
+
+
+@media (
+  max-width: 500px
+) {
+
+  .recommendations-container {
+
+    padding: 15px;
+
+  }
+
+
+  .recommendations-header h1 {
+
+    font-size: 25px;
+
+  }
+
+
+  .recommendation-summary {
+
+    grid-template-columns: 1fr;
+
+  }
+
+
+  .recommendation-form-card,
+
+  .recommendations-list-card {
+
+    padding: 18px;
+
+  }
+
+
+  .recommendation-item-header {
+
+    flex-direction: column;
+
+    align-items: flex-start;
+
+  }
+
+}

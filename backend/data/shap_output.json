@@ -1,0 +1,1712 @@
+[
+    {
+        "district": "Madurai",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092036
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076018
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043971
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031091
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.02474
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024268
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017588
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011156
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005222
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002298
+            }
+        ]
+    },
+    {
+        "district": "Thanjavur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092145
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.07617
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043675
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031323
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024218
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023556
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017373
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.01196
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005915
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002125
+            }
+        ]
+    },
+    {
+        "district": "Ramanathapuram",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09138
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075593
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042993
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031001
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023808
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023535
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.016873
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011765
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005812
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002233
+            }
+        ]
+    },
+    {
+        "district": "Vellore",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09205
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076249
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043897
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031069
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024836
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023938
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017809
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011053
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005443
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002159
+            }
+        ]
+    },
+    {
+        "district": "Tiruppur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091889
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076235
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043575
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.03097
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024989
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023748
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017657
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011104
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005441
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002168
+            }
+        ]
+    },
+    {
+        "district": "Villupuram",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091295
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075404
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042558
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031237
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023873
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.022678
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.01713
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012498
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006069
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002506
+            }
+        ]
+    },
+    {
+        "district": "Chengalpattu",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091839
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075872
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043629
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031102
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024273
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024044
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017487
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011423
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005333
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.001996
+            }
+        ]
+    },
+    {
+        "district": "Kallakurichi",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091809
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076597
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.04363
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031201
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024471
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024003
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017672
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011891
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005823
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002222
+            }
+        ]
+    },
+    {
+        "district": "Kanchipuram",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091315
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076053
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042767
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031118
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023917
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023632
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017391
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012194
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005909
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002302
+            }
+        ]
+    },
+    {
+        "district": "Dindigul",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09175
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076076
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043056
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031121
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023793
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023703
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017251
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012195
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.00596
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002248
+            }
+        ]
+    },
+    {
+        "district": "Erode",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092968
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.079819
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042586
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030047
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.025906
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023587
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017251
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012097
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005189
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.003476
+            }
+        ]
+    },
+    {
+        "district": "Tuticorin",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091945
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076771
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043746
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030924
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.025207
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023859
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017979
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011149
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005651
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002157
+            }
+        ]
+    },
+    {
+        "district": "Krishnagiri",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091792
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075517
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043666
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030983
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024136
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023886
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.016949
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011317
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005351
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002191
+            }
+        ]
+    },
+    {
+        "district": "Virudhunagar",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091736
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076103
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043356
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031183
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024065
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023927
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017468
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011926
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005763
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002196
+            }
+        ]
+    },
+    {
+        "district": "Dharmapuri",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091712
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.07604
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043343
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031112
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023959
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023617
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017254
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012301
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006071
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.001959
+            }
+        ]
+    },
+    {
+        "district": "Salem",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091765
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076143
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043442
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030968
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.02468
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023816
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017724
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011438
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005464
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.001913
+            }
+        ]
+    },
+    {
+        "district": "Tiruchirappalli",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091897
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076372
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043593
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030999
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024768
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023884
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017903
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.0113
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005517
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002015
+            }
+        ]
+    },
+    {
+        "district": "Cuddalore",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091905
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075866
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043682
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030966
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024307
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024037
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017422
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011388
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005472
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002049
+            }
+        ]
+    },
+    {
+        "district": "Tiruvarur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092039
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076333
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043701
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031006
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.025013
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023968
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017982
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.010802
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005305
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002128
+            }
+        ]
+    },
+    {
+        "district": "Theni",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091535
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076007
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.04302
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031146
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023788
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023734
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017528
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012139
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005937
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.001903
+            }
+        ]
+    },
+    {
+        "district": "Chennai",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091852
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076881
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043312
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031216
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024421
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023747
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.018087
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012105
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006154
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.00191
+            }
+        ]
+    },
+    {
+        "district": "Tirupathur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091505
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076253
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043071
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031107
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023982
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023822
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017377
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012045
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006056
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002226
+            }
+        ]
+    },
+    {
+        "district": "The Nilgiris",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092219
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076024
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.044292
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031104
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024562
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024307
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017275
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.01115
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005308
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002208
+            }
+        ]
+    },
+    {
+        "district": "Tiruvannamalai",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091776
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076215
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043569
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031171
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024593
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024032
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017429
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011738
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005647
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002416
+            }
+        ]
+    },
+    {
+        "district": "Thiruvallur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09242
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076631
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.044425
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030795
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.026002
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023946
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.018209
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.010335
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005055
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.001709
+            }
+        ]
+    },
+    {
+        "district": "Namakkal",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09143
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075583
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042563
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031341
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023931
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.022655
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017161
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012721
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006014
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002533
+            }
+        ]
+    },
+    {
+        "district": "Coimbatore",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.0914
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076315
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042687
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031321
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023763
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023616
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017592
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012571
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006113
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002157
+            }
+        ]
+    },
+    {
+        "district": "Ariyalur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092214
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075898
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.04419
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031243
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024424
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.0244
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017474
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011366
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005247
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002235
+            }
+        ]
+    },
+    {
+        "district": "Nagapattinam",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.09221
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076342
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043744
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031183
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024251
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.024116
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017668
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011521
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.00571
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002173
+            }
+        ]
+    },
+    {
+        "district": "Tenkasi",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092079
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076226
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043758
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031006
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024932
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023922
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017786
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.010954
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005326
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002331
+            }
+        ]
+    },
+    {
+        "district": "Perambalur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091267
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076331
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042467
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031306
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023611
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.023512
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017708
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012733
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006341
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002373
+            }
+        ]
+    },
+    {
+        "district": "Sivaganga",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091378
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075955
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.04294
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031017
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024126
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023628
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017157
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.01178
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005726
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002329
+            }
+        ]
+    },
+    {
+        "district": "Karur",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091958
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075826
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043569
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031052
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024222
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023975
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017388
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011252
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005418
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002046
+            }
+        ]
+    },
+    {
+        "district": "Mayiladuthurai",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091678
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076323
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.043215
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031073
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.024089
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023725
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017498
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.011822
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005918
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002248
+            }
+        ]
+    },
+    {
+        "district": "Pudukkottai",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.093238
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.081263
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.04207
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.029716
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.026721
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.022767
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017363
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012182
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.00559
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.003594
+            }
+        ]
+    },
+    {
+        "district": "Tirunelveli",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091508
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.075509
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042971
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031177
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.023967
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.022834
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.016833
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.012402
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.005979
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.0022
+            }
+        ]
+    },
+    {
+        "district": "Kanniyakumari",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.092551
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.076543
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.044829
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.030894
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.026138
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.02429
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.0181
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.0102
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.004651
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002129
+            }
+        ]
+    },
+    {
+        "district": "Ranipet",
+        "features": [
+            {
+                "feature": "total_calls",
+                "impact": 0.091631
+            },
+            {
+                "feature": "fever_calls",
+                "impact": 0.0764
+            },
+            {
+                "feature": "paracetamol_strips_sold",
+                "impact": 0.042893
+            },
+            {
+                "feature": "aedes_larval_index",
+                "impact": 0.031371
+            },
+            {
+                "feature": "occupancy_rate_pct",
+                "impact": 0.02381
+            },
+            {
+                "feature": "rainfall_mm",
+                "impact": 0.02361
+            },
+            {
+                "feature": "total_opd",
+                "impact": 0.017737
+            },
+            {
+                "feature": "max_temperature_c",
+                "impact": 0.01264
+            },
+            {
+                "feature": "fever_opd",
+                "impact": 0.006195
+            },
+            {
+                "feature": "dengue_diagnostic_kits",
+                "impact": 0.002339
+            }
+        ]
+    }
+]

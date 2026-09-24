@@ -1,0 +1,120 @@
+{
+  "model_version": "tier1_v2",
+  "architecture": "XGBoost + LightGBM + CatBoost + LogisticRegression meta-learner",
+  "feature_count": 32,
+  "features": [
+    "week_number",
+    "rainfall_mm",
+    "max_temperature_c",
+    "min_temperature_c",
+    "total_calls",
+    "fever_calls",
+    "total_opd",
+    "fever_opd",
+    "occupancy_rate_pct",
+    "paracetamol_strips_sold",
+    "dengue_diagnostic_kits",
+    "aedes_larval_index",
+    "cases_lag_1",
+    "cases_lag_2",
+    "cases_lag_3",
+    "cases_rolling_3w",
+    "cases_rolling_7w",
+    "rainfall_lag_1",
+    "rainfall_lag_2",
+    "rainfall_lag_3",
+    "temperature_lag_1",
+    "temperature_lag_2",
+    "temperature_lag_3",
+    "min_temperature_lag_1",
+    "min_temperature_lag_2",
+    "min_temperature_lag_3",
+    "rainfall_trend_3w",
+    "temperature_trend_3w",
+    "min_temperature_trend_3w",
+    "week_sin",
+    "week_cos",
+    "mosquito_breeding_index"
+  ],
+  "dataset_rows": 5681,
+  "train_rows": 3976,
+  "validation_rows": 852,
+  "test_rows": 853,
+  "train_years": [
+    2015,
+    2022
+  ],
+  "validation_years": [
+    2022,
+    2024
+  ],
+  "test_years": [
+    2024,
+    2025
+  ],
+  "roc_auc": 0.8988910632746249,
+  "brier_score": 0.1307259263481601,
+  "threshold_metrics": [
+    {
+      "threshold": 0.3,
+      "recall": 0.8713450292397661,
+      "precision": 0.680365296803653,
+      "f1": 0.764102564102564
+    },
+    {
+      "threshold": 0.35,
+      "recall": 0.8391812865497076,
+      "precision": 0.691566265060241,
+      "f1": 0.7582562747688243
+    },
+    {
+      "threshold": 0.4,
+      "recall": 0.8128654970760234,
+      "precision": 0.710997442455243,
+      "f1": 0.7585266030013642
+    },
+    {
+      "threshold": 0.45,
+      "recall": 0.7748538011695907,
+      "precision": 0.7220708446866485,
+      "f1": 0.7475317348377997
+    },
+    {
+      "threshold": 0.5,
+      "recall": 0.7514619883040936,
+      "precision": 0.749271137026239,
+      "f1": 0.7503649635036497
+    },
+    {
+      "threshold": 0.55,
+      "recall": 0.7222222222222222,
+      "precision": 0.7791798107255521,
+      "f1": 0.7496206373292867
+    },
+    {
+      "threshold": 0.6,
+      "recall": 0.7076023391812866,
+      "precision": 0.8093645484949833,
+      "f1": 0.7550702028081123
+    },
+    {
+      "threshold": 0.65,
+      "recall": 0.6549707602339181,
+      "precision": 0.8296296296296296,
+      "f1": 0.7320261437908496
+    },
+    {
+      "threshold": 0.7,
+      "recall": 0.6169590643274854,
+      "precision": 0.8473895582329317,
+      "f1": 0.7140439932318104
+    }
+  ],
+  "selected_high_risk_threshold": 0.5,
+  "selected_metrics": {
+    "threshold": 0.5,
+    "recall": 0.7514619883040936,
+    "precision": 0.749271137026239,
+    "f1": 0.7503649635036497
+  }
+}

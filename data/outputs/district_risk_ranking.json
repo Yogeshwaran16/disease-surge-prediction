@@ -1,0 +1,1074 @@
+{
+  "dengue": [
+    {
+      "district": "Chengalpattu",
+      "surge_probability": 0.662,
+      "expected_cases_2w": 12.0,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Tiruvannamalai",
+      "surge_probability": 0.638,
+      "expected_cases_2w": 21.8,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Ariyalur",
+      "surge_probability": 0.633,
+      "expected_cases_2w": 12.2,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Virudhunagar",
+      "surge_probability": 0.574,
+      "expected_cases_2w": 29.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Pudukkottai",
+      "surge_probability": 0.554,
+      "expected_cases_2w": 17.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Madurai",
+      "surge_probability": 0.544,
+      "expected_cases_2w": 14.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Salem",
+      "surge_probability": 0.542,
+      "expected_cases_2w": 24.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Krishnagiri",
+      "surge_probability": 0.534,
+      "expected_cases_2w": 9.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Nagapattinam",
+      "surge_probability": 0.508,
+      "expected_cases_2w": 29.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruppur",
+      "surge_probability": 0.496,
+      "expected_cases_2w": 16.8,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Ramanathapuram",
+      "surge_probability": 0.495,
+      "expected_cases_2w": 12.1,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruchirappalli",
+      "surge_probability": 0.479,
+      "expected_cases_2w": 22.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kallakurichi",
+      "surge_probability": 0.473,
+      "expected_cases_2w": 11.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Sivaganga",
+      "surge_probability": 0.469,
+      "expected_cases_2w": 12.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Coimbatore",
+      "surge_probability": 0.456,
+      "expected_cases_2w": 17.2,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Vellore",
+      "surge_probability": 0.456,
+      "expected_cases_2w": 26.1,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Cuddalore",
+      "surge_probability": 0.451,
+      "expected_cases_2w": 11.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "The Nilgiris",
+      "surge_probability": 0.447,
+      "expected_cases_2w": 6.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Dharmapuri",
+      "surge_probability": 0.427,
+      "expected_cases_2w": 12.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Thiruvallur",
+      "surge_probability": 0.419,
+      "expected_cases_2w": 14.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Mayiladuthurai",
+      "surge_probability": 0.411,
+      "expected_cases_2w": 11.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kanniyakumari",
+      "surge_probability": 0.402,
+      "expected_cases_2w": 20.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Karur",
+      "surge_probability": 0.386,
+      "expected_cases_2w": 13.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirunelveli",
+      "surge_probability": 0.373,
+      "expected_cases_2w": 11.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruvarur",
+      "surge_probability": 0.365,
+      "expected_cases_2w": 7.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tuticorin",
+      "surge_probability": 0.343,
+      "expected_cases_2w": 12.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Thanjavur",
+      "surge_probability": 0.322,
+      "expected_cases_2w": 5.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Theni",
+      "surge_probability": 0.302,
+      "expected_cases_2w": 5.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Villupuram",
+      "surge_probability": 0.266,
+      "expected_cases_2w": 12.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Kanchipuram",
+      "surge_probability": 0.253,
+      "expected_cases_2w": 5.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirupathur",
+      "surge_probability": 0.166,
+      "expected_cases_2w": 5.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Dindigul",
+      "surge_probability": 0.161,
+      "expected_cases_2w": 6.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Perambalur",
+      "surge_probability": 0.16,
+      "expected_cases_2w": 4.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ranipet",
+      "surge_probability": 0.155,
+      "expected_cases_2w": 12.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tenkasi",
+      "surge_probability": 0.133,
+      "expected_cases_2w": 17.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Erode",
+      "surge_probability": 0.109,
+      "expected_cases_2w": 8.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Chennai",
+      "surge_probability": 0.1,
+      "expected_cases_2w": 6.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Namakkal",
+      "surge_probability": 0.064,
+      "expected_cases_2w": 6.4,
+      "risk_level": "LOW",
+      "alert": false
+    }
+  ],
+  "gastroenteritis": [
+    {
+      "district": "The Nilgiris",
+      "surge_probability": 0.63,
+      "expected_cases_2w": 17.5,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Thanjavur",
+      "surge_probability": 0.593,
+      "expected_cases_2w": 13.1,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruvarur",
+      "surge_probability": 0.565,
+      "expected_cases_2w": 16.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Chengalpattu",
+      "surge_probability": 0.522,
+      "expected_cases_2w": 7.8,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tenkasi",
+      "surge_probability": 0.442,
+      "expected_cases_2w": 13.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Erode",
+      "surge_probability": 0.434,
+      "expected_cases_2w": 11.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Madurai",
+      "surge_probability": 0.433,
+      "expected_cases_2w": 6.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Pudukkottai",
+      "surge_probability": 0.432,
+      "expected_cases_2w": 6.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruvannamalai",
+      "surge_probability": 0.424,
+      "expected_cases_2w": 7.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Cuddalore",
+      "surge_probability": 0.361,
+      "expected_cases_2w": 6.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Namakkal",
+      "surge_probability": 0.345,
+      "expected_cases_2w": 10.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Thiruvallur",
+      "surge_probability": 0.318,
+      "expected_cases_2w": 11.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Kanniyakumari",
+      "surge_probability": 0.313,
+      "expected_cases_2w": 6.6,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ariyalur",
+      "surge_probability": 0.309,
+      "expected_cases_2w": 4.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Salem",
+      "surge_probability": 0.309,
+      "expected_cases_2w": 5.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Kallakurichi",
+      "surge_probability": 0.3,
+      "expected_cases_2w": 5.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ramanathapuram",
+      "surge_probability": 0.299,
+      "expected_cases_2w": 5.2,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Coimbatore",
+      "surge_probability": 0.298,
+      "expected_cases_2w": 6.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Sivaganga",
+      "surge_probability": 0.296,
+      "expected_cases_2w": 5.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruppur",
+      "surge_probability": 0.289,
+      "expected_cases_2w": 8.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Villupuram",
+      "surge_probability": 0.26,
+      "expected_cases_2w": 9.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Nagapattinam",
+      "surge_probability": 0.258,
+      "expected_cases_2w": 6.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ranipet",
+      "surge_probability": 0.255,
+      "expected_cases_2w": 8.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruchirappalli",
+      "surge_probability": 0.254,
+      "expected_cases_2w": 7.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Perambalur",
+      "surge_probability": 0.23,
+      "expected_cases_2w": 10.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirupathur",
+      "surge_probability": 0.224,
+      "expected_cases_2w": 8.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Virudhunagar",
+      "surge_probability": 0.217,
+      "expected_cases_2w": 5.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Theni",
+      "surge_probability": 0.206,
+      "expected_cases_2w": 6.2,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Dindigul",
+      "surge_probability": 0.204,
+      "expected_cases_2w": 12.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Dharmapuri",
+      "surge_probability": 0.197,
+      "expected_cases_2w": 6.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tuticorin",
+      "surge_probability": 0.174,
+      "expected_cases_2w": 4.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirunelveli",
+      "surge_probability": 0.17,
+      "expected_cases_2w": 6.2,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Chennai",
+      "surge_probability": 0.16,
+      "expected_cases_2w": 7.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Krishnagiri",
+      "surge_probability": 0.155,
+      "expected_cases_2w": 4.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Mayiladuthurai",
+      "surge_probability": 0.149,
+      "expected_cases_2w": 5.5,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Karur",
+      "surge_probability": 0.146,
+      "expected_cases_2w": 5.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Kanchipuram",
+      "surge_probability": 0.131,
+      "expected_cases_2w": 6.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Vellore",
+      "surge_probability": 0.124,
+      "expected_cases_2w": 5.1,
+      "risk_level": "LOW",
+      "alert": false
+    }
+  ],
+  "respiratory": [
+    {
+      "district": "Pudukkottai",
+      "surge_probability": 0.626,
+      "expected_cases_2w": 22.9,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Ariyalur",
+      "surge_probability": 0.592,
+      "expected_cases_2w": 13.5,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Coimbatore",
+      "surge_probability": 0.558,
+      "expected_cases_2w": 17.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Vellore",
+      "surge_probability": 0.553,
+      "expected_cases_2w": 21.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kallakurichi",
+      "surge_probability": 0.548,
+      "expected_cases_2w": 14.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Krishnagiri",
+      "surge_probability": 0.548,
+      "expected_cases_2w": 15.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kanniyakumari",
+      "surge_probability": 0.547,
+      "expected_cases_2w": 18.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Virudhunagar",
+      "surge_probability": 0.538,
+      "expected_cases_2w": 16.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Karur",
+      "surge_probability": 0.537,
+      "expected_cases_2w": 18.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Ramanathapuram",
+      "surge_probability": 0.535,
+      "expected_cases_2w": 18.2,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Sivaganga",
+      "surge_probability": 0.534,
+      "expected_cases_2w": 16.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Nagapattinam",
+      "surge_probability": 0.532,
+      "expected_cases_2w": 24.1,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tirunelveli",
+      "surge_probability": 0.527,
+      "expected_cases_2w": 19.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Salem",
+      "surge_probability": 0.515,
+      "expected_cases_2w": 16.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Theni",
+      "surge_probability": 0.515,
+      "expected_cases_2w": 17.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruppur",
+      "surge_probability": 0.512,
+      "expected_cases_2w": 19.2,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Madurai",
+      "surge_probability": 0.496,
+      "expected_cases_2w": 15.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Dharmapuri",
+      "surge_probability": 0.495,
+      "expected_cases_2w": 14.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tuticorin",
+      "surge_probability": 0.489,
+      "expected_cases_2w": 16.8,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Villupuram",
+      "surge_probability": 0.477,
+      "expected_cases_2w": 17.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Mayiladuthurai",
+      "surge_probability": 0.476,
+      "expected_cases_2w": 18.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruvannamalai",
+      "surge_probability": 0.466,
+      "expected_cases_2w": 17.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Thiruvallur",
+      "surge_probability": 0.465,
+      "expected_cases_2w": 22.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kanchipuram",
+      "surge_probability": 0.452,
+      "expected_cases_2w": 25.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Cuddalore",
+      "surge_probability": 0.45,
+      "expected_cases_2w": 13.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tirupathur",
+      "surge_probability": 0.428,
+      "expected_cases_2w": 20.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Chengalpattu",
+      "surge_probability": 0.424,
+      "expected_cases_2w": 14.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruchirappalli",
+      "surge_probability": 0.411,
+      "expected_cases_2w": 26.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Dindigul",
+      "surge_probability": 0.365,
+      "expected_cases_2w": 24.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Chennai",
+      "surge_probability": 0.348,
+      "expected_cases_2w": 22.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Perambalur",
+      "surge_probability": 0.288,
+      "expected_cases_2w": 14.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruvarur",
+      "surge_probability": 0.265,
+      "expected_cases_2w": 11.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "The Nilgiris",
+      "surge_probability": 0.237,
+      "expected_cases_2w": 9.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ranipet",
+      "surge_probability": 0.19,
+      "expected_cases_2w": 11.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Thanjavur",
+      "surge_probability": 0.174,
+      "expected_cases_2w": 9.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tenkasi",
+      "surge_probability": 0.16,
+      "expected_cases_2w": 11.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Namakkal",
+      "surge_probability": 0.155,
+      "expected_cases_2w": 12.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Erode",
+      "surge_probability": 0.12,
+      "expected_cases_2w": 8.4,
+      "risk_level": "LOW",
+      "alert": false
+    }
+  ],
+  "scrub_typhus": [
+    {
+      "district": "Chengalpattu",
+      "surge_probability": 0.681,
+      "expected_cases_2w": 6.4,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Cuddalore",
+      "surge_probability": 0.672,
+      "expected_cases_2w": 11.4,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Tiruvannamalai",
+      "surge_probability": 0.664,
+      "expected_cases_2w": 13.5,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Ariyalur",
+      "surge_probability": 0.642,
+      "expected_cases_2w": 10.6,
+      "risk_level": "MEDIUM",
+      "alert": true
+    },
+    {
+      "district": "Kallakurichi",
+      "surge_probability": 0.578,
+      "expected_cases_2w": 7.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Sivaganga",
+      "surge_probability": 0.568,
+      "expected_cases_2w": 12.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Madurai",
+      "surge_probability": 0.558,
+      "expected_cases_2w": 12.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Krishnagiri",
+      "surge_probability": 0.552,
+      "expected_cases_2w": 11.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Salem",
+      "surge_probability": 0.549,
+      "expected_cases_2w": 12.2,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Nagapattinam",
+      "surge_probability": 0.491,
+      "expected_cases_2w": 13.8,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Kanniyakumari",
+      "surge_probability": 0.484,
+      "expected_cases_2w": 12.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Virudhunagar",
+      "surge_probability": 0.47,
+      "expected_cases_2w": 7.9,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Tiruvarur",
+      "surge_probability": 0.467,
+      "expected_cases_2w": 10.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Ramanathapuram",
+      "surge_probability": 0.449,
+      "expected_cases_2w": 10.4,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "The Nilgiris",
+      "surge_probability": 0.447,
+      "expected_cases_2w": 6.0,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Karur",
+      "surge_probability": 0.445,
+      "expected_cases_2w": 4.3,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Pudukkottai",
+      "surge_probability": 0.443,
+      "expected_cases_2w": 6.7,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Coimbatore",
+      "surge_probability": 0.419,
+      "expected_cases_2w": 11.6,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Thiruvallur",
+      "surge_probability": 0.403,
+      "expected_cases_2w": 6.2,
+      "risk_level": "MEDIUM",
+      "alert": false
+    },
+    {
+      "district": "Mayiladuthurai",
+      "surge_probability": 0.374,
+      "expected_cases_2w": 11.7,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Vellore",
+      "surge_probability": 0.368,
+      "expected_cases_2w": 12.2,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruppur",
+      "surge_probability": 0.365,
+      "expected_cases_2w": 6.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Theni",
+      "surge_probability": 0.354,
+      "expected_cases_2w": 5.6,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tuticorin",
+      "surge_probability": 0.331,
+      "expected_cases_2w": 6.4,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Thanjavur",
+      "surge_probability": 0.329,
+      "expected_cases_2w": 8.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tiruchirappalli",
+      "surge_probability": 0.329,
+      "expected_cases_2w": 19.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Kanchipuram",
+      "surge_probability": 0.257,
+      "expected_cases_2w": 7.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirunelveli",
+      "surge_probability": 0.238,
+      "expected_cases_2w": 3.5,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tenkasi",
+      "surge_probability": 0.181,
+      "expected_cases_2w": 3.3,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Dharmapuri",
+      "surge_probability": 0.175,
+      "expected_cases_2w": 4.0,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Tirupathur",
+      "surge_probability": 0.135,
+      "expected_cases_2w": 5.1,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Chennai",
+      "surge_probability": 0.124,
+      "expected_cases_2w": 5.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Namakkal",
+      "surge_probability": 0.106,
+      "expected_cases_2w": 1.8,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Dindigul",
+      "surge_probability": 0.104,
+      "expected_cases_2w": 3.5,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Villupuram",
+      "surge_probability": 0.099,
+      "expected_cases_2w": 2.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Perambalur",
+      "surge_probability": 0.084,
+      "expected_cases_2w": 1.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Erode",
+      "surge_probability": 0.082,
+      "expected_cases_2w": 3.9,
+      "risk_level": "LOW",
+      "alert": false
+    },
+    {
+      "district": "Ranipet",
+      "surge_probability": 0.053,
+      "expected_cases_2w": 2.1,
+      "risk_level": "LOW",
+      "alert": false
+    }
+  ]
+}

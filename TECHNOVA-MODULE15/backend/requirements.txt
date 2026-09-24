@@ -1,0 +1,3 @@
+PyJWTcelery
+redis
+celery

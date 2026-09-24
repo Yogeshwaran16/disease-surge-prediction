@@ -1,0 +1,230 @@
+[
+    {
+        "district": "Ariyalur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Chengalpattu",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Chennai",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Coimbatore",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Cuddalore",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Dharmapuri",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Dindigul",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Erode",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Kallakurichi",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Kanchipuram",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Kanniyakumari",
+        "risk_level": "MEDIUM",
+        "english_alert": "Disease outbreak risk is MEDIUM. Monitor disease trends closely.",
+        "tamil_alert": "நோய் பரவல் அபாயம் நடுத்தரமாக உள்ளது. நோய் பரவலை தொடர்ந்து கண்காணிக்கவும்."
+    },
+    {
+        "district": "Karur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Krishnagiri",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Madurai",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Mayiladuthurai",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Nagapattinam",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Namakkal",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Perambalur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Pudukkottai",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Ramanathapuram",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Ranipet",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Salem",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Sivaganga",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tenkasi",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Thanjavur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "The Nilgiris",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Theni",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Thiruvallur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tiruchirappalli",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tirunelveli",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tirupathur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tiruppur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tiruvannamalai",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tiruvarur",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Tuticorin",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Vellore",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Villupuram",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    },
+    {
+        "district": "Virudhunagar",
+        "risk_level": "LOW",
+        "english_alert": "Disease outbreak risk is LOW. Routine monitoring is recommended.",
+        "tamil_alert": "நோய் பரவல் அபாயம் குறைவாக உள்ளது. வழக்கமான கண்காணிப்பை தொடரவும்."
+    }
+]
