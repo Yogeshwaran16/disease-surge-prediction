@@ -101,3 +101,11 @@ node_modules
 **/mlflow.db
 **/mlflow.db-*
 **/*.pkl
+
+# Playwright generated artifacts
+frontend/playwright-report/
+frontend/test-results/
+
+# Playwright generated artifacts
+frontend/playwright-report/
+frontend/test-results/
