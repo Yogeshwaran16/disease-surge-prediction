@@ -14,6 +14,7 @@ from sklearn.datasets import make_classification
 from sklearn.ensemble import RandomForestClassifier
 from app.api.v1.explanations import router as explanations_router
 from app.api.v1 import explanations
+from app.core.security import create_access_token
 
 
 def create_test_model():
@@ -104,8 +105,11 @@ def test_generate_explanation():
 
     features = X_df.iloc[0].to_dict()
 
+    access_token = create_access_token({"sub": "test-user", "role": "ADMIN"})
+
     response = client.post(
         "/api/v1/explanations/",
+        headers={"Authorization": f"Bearer {access_token}"},
         json={
             "prediction_id": "test-001",
             "risk_level": "HIGH",
@@ -128,3 +132,4 @@ def test_generate_explanation():
     assert len(data["key_factors"]) > 0
 
     assert data["metadata"]["explainer"] == "SHAP"
+
